@@ -26,7 +26,7 @@ Go to [Bert](https://github.com/google-research/bert#pre-trained-models) and dow
 
 In this project we choose [BERT-Large, Uncased (WWM)](https://storage.googleapis.com/bert_models/2019_05_30/wwm_uncased_L-24_H-1024_A-16.zip)
 
-Download the model , unzip it, and start the bert-service. You can also refer to [bert-as-service], but in this project you only need to run the scripts below to achieve our goal.
+Download the model , unzip it, and start the bert-service. You can also refer to [bert-as-service](https://github.com/hanxiao/bert-as-service), but in this project you only need to run the scripts below to achieve our goal.
 
 ```
  mkdir /tmp/bert_models
