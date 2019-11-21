@@ -2,7 +2,7 @@ from bert_serving.client import BertClient
 import pandas
 import numpy as np
 
-bc = BertClient("183.174.228.116")
+bc = BertClient("127.0.0.1")
 Tweet= pandas.read_csv("./data/tweets.csv")
 # print(Tweet['text'][2001])
 # print(Tweet['text'].tolist())
