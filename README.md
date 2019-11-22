@@ -1,6 +1,9 @@
 # twitter_sentiment_bert_scikit
 Twitter US Airline数据集情感分析（sentiment Analysis），使用Bert Sentence encoding作为特征，实现了SVM、XGBoost、RandomForest（随机森林）等若干分类算法，做了交叉验证。
 
+The data comes from [Kaggle Twitter Airline Sentiment Dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
+
+
 
 # Preinstallation
 
